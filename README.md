@@ -41,35 +41,6 @@ This project demonstrates real-world backend and frontend authentication fundame
 - Tailwind CSS
 - Fetch API
 
----
-
-## Project Structure
-
-Auth-Task/
-│
-├── backend/
-│ ├── src/
-│ │ ├── auth/
-│ │ │ ├── auth.controller.ts
-│ │ │ ├── auth.service.ts
-│ │ │ └── auth.module.ts
-│ │ └── main.ts
-│ └── Dockerfile
-│
-├── frontend/
-│ ├── app/
-│ │ ├── signup/page.tsx
-│ │ ├── signin/page.tsx
-│ │ ├── layout.tsx
-│ │ └── globals.css
-│ └── Dockerfile
-│
-├── docker-compose.yml
-└── README.md
-
-
----
-
 ## How to Run (Docker)
 
 ### Step 1: Clone the repository
